@@ -16,7 +16,7 @@ menu:
 #  List||fas fa-list:
 #    Music: /music/ || fas fa-music
 #    Movie: /movies/ || fas fa-video
-  友链: /link/ || fas fa-link
+  # 友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
@@ -207,7 +207,7 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2026
   custom_text:
   copyright: true # Copyright of theme and framework
 
@@ -701,7 +701,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
+  enable: true
   mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
